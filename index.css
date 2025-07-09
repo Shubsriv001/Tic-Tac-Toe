@@ -79,7 +79,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: clamp(16px, 5vw, 28px);
+  font-size: 40px;
   font-weight: bold;
   box-shadow: 0 0 2px red;
   transition: all 0.2s;
